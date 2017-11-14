@@ -38,7 +38,7 @@ require("normalize.css");
 require("spectacle/lib/themes/default/index.css");
 
 const theme = createTheme({
-  primary: "#666",
+  primary: "#F0F0F0",
   secondary: "#1F2022",
   tertiary: "#03A9FC",
   quartenary: "#CECECE"
